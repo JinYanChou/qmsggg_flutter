@@ -30,6 +30,9 @@ Flutter 推出 beta 版本，目标是解决移动开发中实现原生应用的
 ## 视频 🎥
 目前Flutter 视频在国内的网站上只有优酷上有，在第11条是 Google 开发者在优酷的主页，你可以通过查看 DartConf2018的相关内容来了解 Flutter，1-10均在 YouTube，请自备🚧 。
 
+## 参考
+
+[Flutter](https://juejin.im/post/5a964adf5188257a690f9a85?utm_source=gold_browser_extension)
 - 🚧 [Introducing Flutter](https://link.juejin.im/?target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dfq4N0hgOWzU)
 - 🚧 [Flutter Crash Course - Building a Complete App From Scratch](https://link.juejin.im/?target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjBBl1tYkUnE)
 - 🚧 [Dart Flutter Chat App Tutorial](https://link.juejin.im/?target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWwhyaqNtNQY)
