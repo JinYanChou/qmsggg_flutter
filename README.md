@@ -2,15 +2,14 @@ Google跨平台UI框架 Flutter beta 重磅发布，这里有你需要了解的�
 2018年2月27日，在西班牙巴塞罗那世界移动大会上，Google发布 Flutter 的第一个 beta 版本。Flutter 是 Google 用以帮助开发者在 iOS 和 Android 两个平台开发高质量的原生应用的全新移动 UI 框架。现在就可以去 flutter.io 快速上手开发精美的原生应用。为了方便开发者了解和掌握 Flutter，一颗香菜准备了以下关于 Flutter 的内容。
 
 ## 官方资源 💼
-1.👨 [官网：flutter.io](https://link.juejin.im/?target=https%3A%2F%2Fflutter.io)
-
-2.🏃 [快速入门：flutter.io/get-started…](https://link.juejin.im/?target=https%3A%2F%2Fflutter.io%2Fget-started%2Finstall%2F)
-3.📖 [API 文档：flutter.io/docs/](https://link.juejin.im/?target=https%3A%2F%2Fflutter.io%2Fdocs%2F)
-4.🐙 [Github：github.com/flutter/flu…](https://link.juejin.im/?target=https%3A%2F%2Fgithub.com%2Fflutter%2Fflutter)
-5.🗣 [Google+网上论坛：groups.google.com/forum/#!for…](https://link.juejin.im/?target=https%3A%2F%2Fgroups.google.com%2Fforum%2F%23!forum%2Fflutter-dev)
-6.🐥 [Twitter：twitter.com/flutterio](https://link.juejin.im/?target=https%3A%2F%2Ftwitter.com%2Fflutterio)
-7.💬 [Gitter：gitter.im/flutter/flu…](https://link.juejin.im/?target=https%3A%2F%2Fgitter.im%2Fflutter%2Fflutter)
-8.📚 [Flutter技术周报：flutterweekly.net](https://link.juejin.im/?target=https%3A%2F%2Fflutterweekly.net)
+- 👨 [官网：flutter.io](https://link.juejin.im/?target=https%3A%2F%2Fflutter.io)
+- 🏃 [快速入门：flutter.io/get-started…](https://link.juejin.im/?target=https%3A%2F%2Fflutter.io%2Fget-started%2Finstall%2F)
+- 📖 [API 文档：flutter.io/docs/](https://link.juejin.im/?target=https%3A%2F%2Fflutter.io%2Fdocs%2F)
+- 🐙 [Github：github.com/flutter/flu…](https://link.juejin.im/?target=https%3A%2F%2Fgithub.com%2Fflutter%2Fflutter)
+- 🗣 [Google+网上论坛：groups.google.com/forum/#!for…](https://link.juejin.im/?target=https%3A%2F%2Fgroups.google.com%2Fforum%2F%23!forum%2Fflutter-dev)
+- 🐥 [Twitter：twitter.com/flutterio](https://link.juejin.im/?target=https%3A%2F%2Ftwitter.com%2Fflutterio)
+- 💬 [Gitter：gitter.im/flutter/flu…](https://link.juejin.im/?target=https%3A%2F%2Fgitter.im%2Fflutter%2Fflutter)
+- 📚 [Flutter技术周报：flutterweekly.net](https://link.juejin.im/?target=https%3A%2F%2Fflutterweekly.net)
 ## 新闻 📃
 - [Flutter beta 1 重磅发布：开发精美的原生应用](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fentry%2F5a95684f6fb9a063501540ef%2F)
 
