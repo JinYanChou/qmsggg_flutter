@@ -57,3 +57,11 @@ Flutter 教程视频在 YouTube 不是很多，但是在国外有很多做Flutte
 - 🔩 [Flutter Plugin](https://link.juejin.im/?target=https%3A%2F%2Fgithub.com%2Fflutter%2Fplugins)
 
 Plugins for Flutter, including FlutterFire such as google_sign_in，image_picker，video_player，firebase_admob，firebase_analytics，firebase_auth pubcloud_firestore. maintained by the Flutter team.
+
+## Flutter中文网开源项目
+- 🔩 [dio](https://github.com/flutterchina/dio)
+A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
+一个强大的Http请求库，支持Restful API、FormData、拦截器、请求取消、Cookie管理、文件上传/下载、超时等...
+- 🔩 [CookieJar](https://github.com/flutterchina/cookie_jar)
+A cookie manager for http requests in Dart, by which you can deal with the complex cookie policy and persist cookies easily.
+一个实现HTTP协议标准Cookie管理策略的Cookie管理器，他可以自动帮您自动管理http请求cookie，并支持本地持久化。
