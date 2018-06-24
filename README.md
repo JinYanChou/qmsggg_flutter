@@ -10,6 +10,12 @@ Google跨平台UI框架 Flutter beta 重磅发布，这里有你需要了解的�
 - 🐥 [Twitter：twitter.com/flutterio](https://link.juejin.im/?target=https%3A%2F%2Ftwitter.com%2Fflutterio)
 - 💬 [Gitter：gitter.im/flutter/flu…](https://link.juejin.im/?target=https%3A%2F%2Fgitter.im%2Fflutter%2Fflutter)
 - 📚 [Flutter技术周报：flutterweekly.net](https://link.juejin.im/?target=https%3A%2F%2Fflutterweekly.net)
+- 📚 [Flutter中文网](https://flutterchina.club/)
+- 📚 [Flutter中文社区](https://flutter-io.cn/#section-codelabs)
+- 🐥 [掘金专栏：Flutter](https://juejin.im/tag/Flutter)
+## 第三方资源
+- [[译] Awesome Flutter：带你从入门到进阶的 Flutter 指南](https://juejin.im/post/5b2869e66fb9a00e5f3e861f)
+- [知乎：Flutter 开发之旅](https://zhuanlan.zhihu.com/c_203307788)
 ## 新闻 📃
 - [Flutter beta 1 重磅发布：开发精美的原生应用](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fentry%2F5a95684f6fb9a063501540ef%2F)
 
@@ -26,6 +32,10 @@ Flutter 推出 beta 版本，目标是解决移动开发中实现原生应用的
 - [Flutter — 5 reasons why you may love it](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fentry%2F5a18192051882503dc53661b)
 
 热更新、基于Material Design的组件、一切皆是组件、Android/iOS 自动切换UI、数量众多的开发库，这五个原因可以让你爱上 Flutter吗？
+
+- [Flutter 首个发布预览版（Release Preview 1）正式发布](http://developers.googleblog.cn/2018/06/flutter-release-preview-1.html)
+
+今天，我们很高兴地宣布，Flutter 的首个发布预览版（Release Preview 1）正式发布！这标志着我们进入了 Flutter 正式版（1.0）发布前的最后阶段。
 
 ## 视频 🎥
 目前Flutter 视频在国内的网站上只有优酷上有，在第11条是 Google 开发者在优酷的主页，你可以通过查看 DartConf2018的相关内容来了解 Flutter，1-10均在 YouTube，请自备🚧 。
@@ -55,3 +65,11 @@ Flutter 教程视频在 YouTube 不是很多，但是在国外有很多做Flutte
 - 🔩 [Flutter Plugin](https://link.juejin.im/?target=https%3A%2F%2Fgithub.com%2Fflutter%2Fplugins)
 
 Plugins for Flutter, including FlutterFire such as google_sign_in，image_picker，video_player，firebase_admob，firebase_analytics，firebase_auth pubcloud_firestore. maintained by the Flutter team.
+
+## Flutter中文网开源项目
+- 🔩 [dio](https://github.com/flutterchina/dio)
+A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
+一个强大的Http请求库，支持Restful API、FormData、拦截器、请求取消、Cookie管理、文件上传/下载、超时等...
+- 🔩 [CookieJar](https://github.com/flutterchina/cookie_jar)
+A cookie manager for http requests in Dart, by which you can deal with the complex cookie policy and persist cookies easily.
+一个实现HTTP协议标准Cookie管理策略的Cookie管理器，他可以自动帮您自动管理http请求cookie，并支持本地持久化。
