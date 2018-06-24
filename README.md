@@ -16,6 +16,8 @@ Google跨平台UI框架 Flutter beta 重磅发布，这里有你需要了解的�
 ## 第三方资源
 - [[译] Awesome Flutter：带你从入门到进阶的 Flutter 指南](https://juejin.im/post/5b2869e66fb9a00e5f3e861f)
 - [知乎：Flutter 开发之旅](https://zhuanlan.zhihu.com/c_203307788)
+## MY
+- [我的Flutter学习之路](https://github.com/qmsggg/TheWayOfFlutterStudy/tree/master/MyStudyRecoder)
 ## 新闻 📃
 - [Flutter beta 1 重磅发布：开发精美的原生应用](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fentry%2F5a95684f6fb9a063501540ef%2F)
 
