@@ -12,6 +12,7 @@ Google跨平台UI框架 Flutter beta 重磅发布，这里有你需要了解的�
 - 📚 [Flutter技术周报：flutterweekly.net](https://link.juejin.im/?target=https%3A%2F%2Fflutterweekly.net)
 - 📚 [Flutter中文网](https://flutterchina.club/)
 - 📚 [Flutter中文社区](https://flutter-io.cn/#section-codelabs)
+- 🐥 [掘金专栏：Flutter](https://juejin.im/tag/Flutter)
 ## 新闻 📃
 - [Flutter beta 1 重磅发布：开发精美的原生应用](https://link.juejin.im/?target=https%3A%2F%2Fjuejin.im%2Fentry%2F5a95684f6fb9a063501540ef%2F)
 
